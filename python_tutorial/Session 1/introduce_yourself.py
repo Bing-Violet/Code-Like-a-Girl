@@ -1,0 +1,1 @@
+print('My name is Bing. I love my cat.')
